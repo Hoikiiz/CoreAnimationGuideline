@@ -27,7 +27,7 @@
 		3321DAAA1E12509D000877F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3321DAAD1E12509D000877F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3321DAAF1E12509D000877F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3321DAB51E1256AD000877F9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3321DAB51E1256AD000877F9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "01图层与视图/README.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +44,7 @@
 		3321DA921E12509D000877F9 = {
 			isa = PBXGroup;
 			children = (
+				3321DAB51E1256AD000877F9 /* README.md */,
 				3321DA9D1E12509D000877F9 /* 01图层与视图 */,
 				3321DA9C1E12509D000877F9 /* Products */,
 			);
@@ -69,7 +70,6 @@
 				3321DAAC1E12509D000877F9 /* LaunchScreen.storyboard */,
 				3321DAAF1E12509D000877F9 /* Info.plist */,
 				3321DA9E1E12509D000877F9 /* Supporting Files */,
-				3321DAB51E1256AD000877F9 /* README.md */,
 			);
 			path = "01图层与视图";
 			sourceTree = "<group>";
